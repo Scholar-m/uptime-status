@@ -5,7 +5,7 @@ window.Config = {
   SiteName: 'Uptime Status',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'https://stats.sczssr.xyz',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
@@ -16,7 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'u1196020-0603afcf216b56ff6d3a09b5',
+    'ur1196020-83c8b2bee4c5775caa753339',
   ],
 
   // 是否显示监测站点的链接
@@ -31,11 +31,8 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://www.shuscloud.com/'
     },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    }
+
   ]
 };
